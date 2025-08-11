@@ -4,4 +4,9 @@ https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.202200175
 
 It assumes that you are using SIESTA, specifically Siesta 4.1-b4, but any version should work because the .vectors file is in the same format.
 
-note that the sic.xyz file is a text file that assumes the following format: x, y, z, atomic number, atomic mass (in amu)
+Note that the sic.xyz file is a text file that assumes the following format: x, y, z, atomic number, atomic mass (in amu)
+
+The output of the prepcell code is the sic.XV file.  This contains all the positions and velocities (in Bohr) that will alow someone to run a simulation in SIESTA
+The sic.XV file here is given as a sample output, where the equilibrium temperature of the supercell is ~350K.
+
+
