@@ -1,0 +1,6 @@
+This is the prepcell code that was used to create the simulations in the following paper: 
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.202200175
+
+It assumes that you are using SIESTA, specifically Siesta 4.1-b4, but any version should work because the .vectors file is in the same format.
+
